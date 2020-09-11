@@ -1,2 +1,3 @@
-Write-Host "Hello, Nitin & Sagar!"
+Write-Host "Hello, Nitin & Sagar! This to test CI is enabled"
+ps
 
